@@ -207,7 +207,7 @@
     {
       "name": "一加手机1",
       "manufacturer": "OnePlus",
-      "model": "A1001"
+      "model": "A0001"
     },
     {
       "name": "一加手机2",
@@ -218,6 +218,41 @@
       "name": "一加手机3",
       "manufacturer": "OnePlus",
       "model": "OnePlus A3000"
+    },
+    {
+      "name": "一加手机3T",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus A3010"
+    },
+    {
+      "name": "一加手机5",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus A5000"
+    },
+    {
+      "name": "一加手机5T",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus A5010"
+    },
+    {
+      "name": "一加手机6",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus A6000"
+    },
+    {
+      "name": "一加手机6T",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus A6010"
+    },
+    {
+      "name": "一加手机7",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus GM1900"
+    },
+    {
+      "name": "一加手机7 Pro",
+      "manufacturer": "OnePlus",
+      "model": "OnePlus GM1910"
     }
   ],
   "中兴": [
